@@ -2,5 +2,5 @@
   "remoteURL": "https://github.com/AzazelRav/musical-umbrella.git",
   "gitLocation": "",
   "syncinterval": 0,
-  "isSyncOnLoad": false
+  "isSyncOnLoad": true
 }
