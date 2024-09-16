@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Lore ideas and world building/musical lore/world events/crimes.md",
+                "file": "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/01 - Projects.md",
+                "file": "00 - Music ideas/dnd songs/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Lore ideas and world building/musical lore/world events/crimes.md",
+                "file": "00 - Music ideas/dnd songs/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Lore ideas and world building/musical lore/world events/crimes.md",
+                "file": "00 - Music ideas/dnd songs/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Lore ideas and world building/musical lore/world events/crimes.md"
+                "file": "00 - Music ideas/dnd songs/Untitled.md"
               }
             }
           },
@@ -260,21 +261,21 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "daded19f158a45e2",
+  "active": "09b8b5263096c757",
   "lastOpenFiles": [
+    "01 - Projects/01 - Projects.md",
+    "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
+    "02 - Lore ideas and world building/musical lore/world events/crimes.md",
     "00 - Music ideas/New Text Document.txt",
     "musical-umbrella",
     "New folder",
     "git",
-    "02 - Lore ideas and world building/musical lore/world events/crimes.md",
     "02 - Lore ideas and world building/musical lore/Timeline.canvas",
     "AZA-S-Musical",
     "Musical-Vault",
     "06 - DND notes/20240916.md",
     "02 - Lore ideas and world building/musical lore/world events/Royalty.md",
     "RPReplay_Final1726453597.mov",
-    "01 - Projects/01 - Projects.md",
-    "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
     "Untitled.md",
     "01 - Projects/musical/01- songs idea stage/boat song.md",
     "01 - Projects/musical/01- songs idea stage/festival.md",
@@ -298,7 +299,6 @@
     "01 - Projects/musical/musical songs-ideas/dancing without a prince.md",
     "01 - Projects.md",
     "01 - Projects/musical",
-    "09- Musicals",
     "Pasted image 20240827162252.png",
     "Pasted image 20240824113759.png",
     "Pasted image 20240824113805.png",

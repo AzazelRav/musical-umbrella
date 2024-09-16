@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "00 - Music ideas/dnd songs/Untitled.md"
+    },
+    {
+      "basename": "01 - Projects",
+      "path": "01 - Projects/01 - Projects.md"
+    },
+    {
+      "basename": "02 - Lore ideas and world building",
+      "path": "02 - Lore ideas and world building/02 - Lore ideas and world building.md"
+    },
+    {
       "basename": "crimes",
       "path": "02 - Lore ideas and world building/musical lore/world events/crimes.md"
     },
@@ -21,16 +33,8 @@
       "path": "RPReplay_Final1726453597.mov"
     },
     {
-      "basename": "01 - Projects",
-      "path": "01 - Projects/01 - Projects.md"
-    },
-    {
       "basename": "festival",
       "path": "01 - Projects/musical/01- songs idea stage/festival.md"
-    },
-    {
-      "basename": "02 - Lore ideas and world building",
-      "path": "02 - Lore ideas and world building/02 - Lore ideas and world building.md"
     },
     {
       "basename": "boat song",
@@ -195,10 +199,6 @@
     {
       "basename": "Timeless",
       "path": "07 - Archives/Random music ideas/Timeless.md"
-    },
-    {
-      "basename": "The thorny rose",
-      "path": "07 - Archives/Random music ideas/The thorny rose.md"
     }
   ],
   "omittedPaths": [],
