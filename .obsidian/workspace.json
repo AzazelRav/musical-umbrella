@@ -1,0 +1,310 @@
+{
+  "main": {
+    "id": "b791dd8e408ff557",
+    "type": "split",
+    "children": [
+      {
+        "id": "872b9e1cb014cbfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daded19f158a45e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Lore ideas and world building/musical lore/world events/crimes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09b8b5263096c757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/01 - Projects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb35943a0d2c6838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/musical/01- songs idea stage/festival.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "930bccc601150074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - DND notes/20240916.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f438c88065ebfa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "995b2d11d354598a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c914e2a1e4e0a39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "022ec2d375ca842d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c68a3aa717ab8a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "e8445bdc8a20e706",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "717d2c0e67b4567a",
+    "type": "split",
+    "children": [
+      {
+        "id": "661b7c00f9dc976d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7d8acb0903dfe20",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b6f7101131f3938",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9bf6addf9046e054",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd90605f938f2f3f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 - Lore ideas and world building/musical lore/world events/crimes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a43f15b3196ea61a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 - Lore ideas and world building/musical lore/world events/crimes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "847c0a35daeadce2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b5e8efec78387dbb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "f5e356db6092409e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 - Lore ideas and world building/musical lore/world events/crimes.md"
+              }
+            }
+          },
+          {
+            "id": "c0f7a6087e2df446",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 - Archives/MUSICAL SCRAPPED SONGS/Downfall.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f141e3775ab68523",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 457.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-gallery:Gallery": false,
+      "omnisearch:Omnisearch": false,
+      "soundscapes:Soundscapes: My Music": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": true,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "zk-prefixer:Create new unique note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "obsidian-spaced-repetition:Review flashcards": true,
+      "obsidian-importer:Open Importer": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "obsidian-advanced-slides:Show Slide Preview": true,
+      "obsidian-kanban:Create new board": false,
+      "webpage-html-export:Export Vault to HTML": true,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-regex-pipeline:Regex Rulesets": false,
+      "remotely-save:Remotely Save": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "daded19f158a45e2",
+  "lastOpenFiles": [
+    "musical-umbrella",
+    "New folder",
+    "git",
+    "02 - Lore ideas and world building/musical lore/world events/crimes.md",
+    "02 - Lore ideas and world building/musical lore/Timeline.canvas",
+    "AZA-S-Musical",
+    "Musical-Vault",
+    "06 - DND notes/20240916.md",
+    "02 - Lore ideas and world building/musical lore/world events/Royalty.md",
+    "RPReplay_Final1726453597.mov",
+    "01 - Projects/01 - Projects.md",
+    "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
+    "Untitled.md",
+    "01 - Projects/musical/01- songs idea stage/boat song.md",
+    "01 - Projects/musical/01- songs idea stage/festival.md",
+    "Notes.md",
+    "01 - Projects/musical/00 - Info or links/Lore overview.md",
+    "02 - Lore ideas and world building/dnd/Untitled 1.md",
+    "Home.md",
+    "02 - Lore ideas and world building/dnd/Untitled.md",
+    "02 - Lore ideas and world building/musical lore/scrapped lore",
+    "orphaned files output.md",
+    "01 - Projects/musical/03 - Cut songs/blood in the garden draft 1..md",
+    "02 - Lore ideas and world building/musical lore/characters/DECIDED/Lee.md",
+    "03 - Resources and links/rap notes/Untitled.md",
+    "01 - Projects/musical/Cut songs/blood in the garden draft 1..md",
+    "01 - Projects/musical/Cut songs/Blood in the garden.md",
+    "01 - Projects/musical/Cut songs/the beginning.md",
+    "01 - Projects/musical/musical songs-ideas/boat song.md",
+    "01 - Projects/musical/musical songs-ideas/festival.md",
+    "01 - Projects/musical/Cut songs",
+    "00 - Music ideas/parodys/Untitled.md",
+    "01 - Projects/musical/musical songs-ideas/dancing without a prince.md",
+    "01 - Projects.md",
+    "01 - Projects/musical",
+    "09- Musicals",
+    "11",
+    "Pasted image 20240827162252.png",
+    "Pasted image 20240824113759.png",
+    "Pasted image 20240824113805.png",
+    "08 - PINBOARDS/Untitled.canvas",
+    "Designer (36).png",
+    "99 - Meta/attachments/Pasted Image 20240729134732_821.png",
+    "Designer.png"
+  ]
+}

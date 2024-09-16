@@ -1,0 +1,10 @@
+I've been talking to graves everyday
+Askin how they ended up in this place,
+And they tell the same story about not enough done just wasting time in space,
+Or how they never got to see the end of their thirty year run,
+Talked about alot of metaphors with strings tied around fingers but there never coming off,
+cause they were cut off,
+Now hopes of achieving feels like hopeless dreaming, 
+souls gotten lost searching for the meanin,
+Never found the purpose assumed they never earned it,
+Watches the tides saw them turnin but still never found their purpose,

@@ -1,0 +1,15 @@
+Better off alone,
+That's what I tell them but I'm only 16 years old
+Guess I was thrown into the cold,
+Gave the shoulder to many friends,
+Yet I wonder why they left at the end
+Couldn't think about it for a minute then I guess I'm better off in this dead end but I gotta turn even if I'll crash and burn cause I promised I would return to them in good health but I'm stuck in the medicine cabinet third shelf but these tablets from the bottles don't help,
+All it does it make my hormones go from the lowest to the highest tier burst into tears,
+Called my ex her name is fear I told her I needed here and now,
+Was in a delusion,
+started pollution with these unholy sounds,
+But the screams were the only sounds that wouldn't cut out,
+They would follow me all around,
+Fear told me it was nothing to worry about,
+Then later would put me down,
+Saying I was nothing but a guy who only followed the stereotype that was passed around,

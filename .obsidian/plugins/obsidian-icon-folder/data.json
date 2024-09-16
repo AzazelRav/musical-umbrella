@@ -1,0 +1,120 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiDice6",
+      "BoBxsDice6",
+      "BoBxsPin",
+      "BoBxsMicrophone",
+      "BoBxQuestionMark"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "icon": "BoBxMicrophone",
+        "rule": "07 - Archives/Raps\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 0,
+        "useFilePath": true
+      },
+      {
+        "icon": "BoBxDizzy",
+        "rule": "00 - Music ideas\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 1,
+        "useFilePath": true
+      },
+      {
+        "rule": " - Maps of Content",
+        "icon": "BoBxGlobeAlt",
+        "for": "folders",
+        "order": 2
+      },
+      {
+        "rule": " - Projects",
+        "icon": "BoBxsPen",
+        "for": "folders",
+        "order": 3
+      },
+      {
+        "rule": " - Areas",
+        "icon": "BoBxsPackage",
+        "for": "folders",
+        "order": 4
+      },
+      {
+        "rule": " - Resources",
+        "icon": "BoBxsBook",
+        "for": "folders",
+        "order": 5
+      },
+      {
+        "rule": " - Fleeting",
+        "icon": "BoBxsPencil",
+        "for": "folders",
+        "order": 6
+      },
+      {
+        "rule": "- Daily",
+        "icon": "BoBxCalendarEvent",
+        "for": "folders",
+        "order": 7
+      },
+      {
+        "rule": "- Meta",
+        "icon": "BoBxSelection",
+        "for": "folders",
+        "order": 8
+      },
+      {
+        "rule": "- Templates",
+        "icon": "BoBxRuler",
+        "for": "everything",
+        "order": 9
+      },
+      {
+        "rule": "- Permanent",
+        "icon": "BoBxsFile",
+        "for": "everything",
+        "order": 10
+      },
+      {
+        "rule": "- Archives",
+        "icon": "BoBxsArchive",
+        "for": "folders",
+        "order": 11
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 2,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "01 - Projects": "BoBxsDoorOpen",
+  "06 - DND notes": "BoBxDice6",
+  "08 - PINBOARDS": "BoBxsPin",
+  "04 - Arg-Game stuff": "BoBxQuestionMark",
+  "00 - Music ideas/dnd songs": "BoBxsDice6",
+  "02 - Lore ideas and world building": "BoBxsBookOpen",
+  "00 - Music ideas": "BoBxDizzy",
+  "07 - Archives/Raps": "BoBxsMicrophone",
+  "02 - Lore ideas and world building/dnd": "LiDice6"
+}

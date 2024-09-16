@@ -1,0 +1,23 @@
+{
+  "discordWebhookURL": [
+    {
+      "description": "aza-note-ideas-scrapped-things",
+      "url": "https://discord.com/api/webhooks/1284997461240316046/_4tPahuRfjl7beyCYAr0Zlba4lXjXdoxJpgsNqc7X4nZZvytZ28Lv47USlZwY9bHhVTD"
+    }
+  ],
+  "attachmentsFolder": "",
+  "localSuggestionsLimit": 10,
+  "showPreviewInLocalModal": true,
+  "customBotUsername": "",
+  "customBotAvatarURL": "",
+  "useNoteTitleForEmbed": true,
+  "embedTitle": "",
+  "embedColor": "#fc52ff",
+  "embedURL": "",
+  "embedAuthor": "Aza/Dan",
+  "embedDescription": "",
+  "embedThumbnail": "",
+  "embedFields": "",
+  "embedImage": "",
+  "embedFooter": ""
+}

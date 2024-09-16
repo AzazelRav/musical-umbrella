@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"fe82141fc0be2ff6","type":"text","text":"Beginning of the story","x":-160,"y":-120,"width":250,"height":60,"color":"3"},
+		{"id":"d60d1983e3fb85a8","type":"text","text":"[[Melisandra]]’s First song and the first song of the musical, will involve the fears of responsibility being forced on someone who isn’t ready for it, this will also introduce the world and hint at the dark world that is hidden behind the festival’s cheery music","x":-160,"y":-40,"width":420,"height":200},
+		{"id":"ca615dee52f7792b","type":"text","text":"[[Lee]]’s First song and the second song, will introduce the darker side of the world in a more blunt way showing how the people who aren’t fortunate to have power are struggling, subtly bring the [[BBEG]] into a sort of hero role facade to save the people but not hinting at his true plans, (tbd)","x":-600,"y":20,"width":400,"height":220},
+		{"id":"453a1810ddc73fd5","type":"text","text":"The third song of the musical and where the two main characters will speak but under lies of vanity and Lee sneaking in and infiltrating the party using a different accent, this song will bring [[Josephine]] in to be a type of enemy for lee as she can see through his disguise, this will also hinder [[Melisandra]] in creative ways like distracting her then other points pulling her away, this song should feel very intense with a disguise of the setting of a ball,","x":-180,"y":190,"width":480,"height":290},
+		{"id":"1b44a3984e0629e0","type":"text","text":"The Fourth song starts with laughter of [[Melisandra]] as she doesn’t believe [[Lee]] isn’t royal, but he drops his accent and talks normal","x":-600,"y":340,"width":340,"height":200}
+	],
+	"edges":[
+		{"id":"1cd1294bcee2c090","fromNode":"fe82141fc0be2ff6","fromSide":"bottom","toNode":"d60d1983e3fb85a8","toSide":"top"},
+		{"id":"3a24f68f0474177a","fromNode":"d60d1983e3fb85a8","fromSide":"left","toNode":"ca615dee52f7792b","toSide":"right"},
+		{"id":"98f62cc132fd5bdb","fromNode":"d60d1983e3fb85a8","fromSide":"bottom","toNode":"453a1810ddc73fd5","toSide":"top"},
+		{"id":"3841c9fd5028ac1a","fromNode":"ca615dee52f7792b","fromSide":"bottom","toNode":"453a1810ddc73fd5","toSide":"left"},
+		{"id":"e7d550187967b840","fromNode":"453a1810ddc73fd5","fromSide":"left","toNode":"1b44a3984e0629e0","toSide":"right"}
+	]
+}

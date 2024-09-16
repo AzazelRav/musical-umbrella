@@ -1,0 +1,27 @@
+Dear diary I've been writing but these words tire me,
+as the fear begins bitting soon as I'm close to be,
+Anything more then it's just a fucking daydream it,
+Bit me like a bug stuck coughin,
+but eyes still closed too tired for walking,
+Fired just cause I failed the test and got me to rise,
+Way above the rest but then I got on my knees just to take a breath,
+They took advantage of the situation and put their
+Feet on me and made me their foot rest,
+They Grabbed me by my hair threw me at the wall then in a fucking chair,
+Tied from legs to arms, 
+Neck has something written but it's far out of my vision and I hear people screaming I have a bad feelin that I won't be leaving,
+Any time soon there is smell of shame blood and tears lingering in this room,
+They came in wearing mask saying I better not fight and I responded nothing much I can do,
+I heard a camera sound play as I closed my eyes and shut off my brain I took something in my mouth but I was too far to even know the taste,
+Gone without a trace,
+When I came to I was stripped down to my birthday suit,
+Tied to the ground with chains and a collar around my neck and marks on my arms that indicate I was whipped multiple times by those guys,
+What a fucked up place I think if I only could go back to home and be with my family and drink no lies about now I'd person if I could only be free,
+I hear screaming from another room,
+Guess those fuckers got someone who didn't wanna do it like they do,
+As I close my eyes and accept my new life I hear sirens blaring then I see blue and red lights flash against the walls as one of the men screams SHIT WE GOTTA KILL EM ALL!!
+I knew I had to escape I used all my might to break these flimsy chains and succeeded even though the odds were against me this day,
+Slammed myself and the collar against the wall till it started to break but as I did the wall started to shake I heard gunshots getting closer every second I wasted trying to get away,
+It broke and I almost scream I'm saved but I didn't and went to the door surprisingly it wasn't locked I ran out to the parking lot and saw lots of cops with there guns out but they got scared and all fired their rounds as the blood spilled out from tears in my skin I closed my eyes and said thank you for releasing me from this place which would of been my prison,
+
+[Sirens sounds blaring as you hear sounds officers running over screaming hold your fire but gun shots can be heard and the sound of a thud can be heard as the beat cuts out]

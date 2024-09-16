@@ -1,0 +1,3 @@
+*Arthur walks through a dim alley after nearly escaping capture from guards his mask and hood still hiding his face. as he spots a shop with hanging sign the chain is slightly broken on the sign as the wind blows it side to side before you can step away a man grips his shoulder in a swift motion he chuckles as he does so as he whispers in a giggly tone* 
+(p:) "I've been expecting you...~ arthur...~ 
+Oh and. keep that knife you keep by your desk, in your pocket. "
