@@ -1,8 +1,3 @@
----
-tags:
-  - "#Table-of-contents"
-cssclasses: []
----
 
 # 01 - Projects Overview
 %% Begin Waypoint %%
