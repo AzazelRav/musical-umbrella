@@ -6,10 +6,13 @@
 - **musical lore**
 	- **characters**
 		- **DECIDED**
+			- [[Bard]]
 			- [[BBEG]]
+			- [[Henchment]]
 			- [[Josephine]]
 			- [[Lee]]
 			- [[Melisandra]]
+			- [[Princes & princess]]
 		- **UNDECIDED**
 			- [[King]]
 			- [[Queen]]
