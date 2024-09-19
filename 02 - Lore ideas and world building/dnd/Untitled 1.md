@@ -1,2 +1,7 @@
-  
-Raziel Elysia has an androgynous charm, standing at an average height of 5'9" with a lean, wiry frame that speaks to his years of stealth and agility on the streets of his cursed hometown. His skin is pale, almost ghostly, as if he’s never fully seen the sun, marked with faint scars that tell silent stories of his struggles. His hair is a deep auburn, wild and unkempt, falling just past his shoulders. Strands often obscure his piercing emerald eyes, which hold a spark of intelligence but are haunted by shadows of the past. Raziel dresses in simple, tattered clothing—usually a loose, dark green tunic with frayed edges, tucked into black trousers that are slightly too large, cinched at the waist with a weathered leather belt. He often wears a long, tattered cloak that billows behind him, its umber color contrasting with his tunic, serving both as a disguise and a comforting shroud against the chaos surrounding him.
+the women kara is safe- she showed true annoyance when i bit the dead mans neck and gripped her sword, therefore she is safe unless all others show similar reactions, if so... return to main clues, poisoned and strangled -(zone of the truth they said no)
+
+jon seemed to be sorta defensive, and therefore could be a suspect due to only being angered when spoken if he killed himself, -(zone of the truth they said no)
+
+(could be possible one of the 3 could be the killer most likely tan, but... unlikely.
+
+the bartender is the most suspicious out of them for me, she wakes up early and has access to everywhere, and could easily open the room, 
