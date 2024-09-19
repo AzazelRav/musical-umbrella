@@ -28,4 +28,3 @@
 
 %% End Waypoint %%
 
-lol test2
