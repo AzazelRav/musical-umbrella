@@ -27,3 +27,5 @@
 		- [[Royalty]]
 
 %% End Waypoint %%
+
+lol
