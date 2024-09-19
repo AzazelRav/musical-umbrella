@@ -83,21 +83,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9236456aed566cbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -202,7 +190,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +206,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,9 +239,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Lore ideas and world building/02 - Lore ideas and world building.md"
-              }
+              "state": {}
             }
           },
           {
@@ -311,13 +295,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9236456aed566cbe",
+  "active": "293c4c1c12d2c289",
   "lastOpenFiles": [
+    "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
     "06 - DND notes/20240919.md",
     "02 - Lore ideas and world building/dnd/Untitled 1.md",
     "02 - Lore ideas and world building/dnd/oneshot idea/Izanami's curse.md",
     "02 - Lore ideas and world building/dnd/Untitled.md",
-    "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
     "01 - Projects/01 - Projects.md",
     "06 - DND notes/20240918.md",
     "01 - Projects/musical/01- songs idea stage/dancing without a prince.md",
