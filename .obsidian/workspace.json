@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/musical/01- songs idea stage/festival.md",
+                "file": "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,6 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,6 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +241,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 - Lore ideas and world building/02 - Lore ideas and world building.md"
+              }
             }
           },
           {
@@ -295,8 +299,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "293c4c1c12d2c289",
+  "active": "db670ed9ac718e65",
   "lastOpenFiles": [
+    "01 - Projects/musical/01- songs idea stage/festival.md",
+    "02 - Lore ideas and world building/musical lore/Timeline.canvas",
     "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
     "06 - DND notes/20240919.md",
     "02 - Lore ideas and world building/dnd/Untitled 1.md",
@@ -305,9 +311,7 @@
     "01 - Projects/01 - Projects.md",
     "06 - DND notes/20240918.md",
     "01 - Projects/musical/01- songs idea stage/dancing without a prince.md",
-    "01 - Projects/musical/01- songs idea stage/festival.md",
     "02 - Lore ideas and world building/dnd/oneshot idea",
-    "02 - Lore ideas and world building/musical lore/Timeline.canvas",
     "06 - DND notes/20240916.md",
     "06 - DND notes/20240917.md",
     "01 - Projects/musical/01- songs idea stage/boat song.md",
@@ -324,7 +328,6 @@
     "07 - Archives/Random music ideas/Apollo.md",
     "07 - Archives/Raps/Untitled 4.md",
     "07 - Archives/Raps/Untitled 1.md",
-    "07 - Archives/Raps/Untitled.md",
     "00 - Music ideas/New Text Document.txt",
     "musical-umbrella",
     "New folder",
