@@ -1,6 +1,8 @@
 # 02 - Lore ideas and world building Overview
 %% Begin Waypoint %%
 - **dnd**
+	- **oneshot idea**
+		- [[Izanami's curse]]
 	- [[Untitled 1]]
 	- [[Untitled]]
 - **musical lore**

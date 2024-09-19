@@ -16,24 +16,12 @@
               "state": {
                 "file": "02 - Lore ideas and world building/musical lore/Timeline.canvas",
                 "viewState": {
-                  "x": -96.29648690237838,
-                  "y": 387.59237437812124,
-                  "zoom": -0.7306574950336895
+                  "x": 65.12734845357227,
+                  "y": 225.09052500413537,
+                  "zoom": -1.0639908283670227
                 }
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "b43185eed39a8b3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - DND notes/20240917.md",
-                "mode": "source",
-                "source": false
-              }
             }
           },
           {
@@ -66,14 +54,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Lore ideas and world building/dnd/Untitled.md",
+                "file": "01 - Projects/01 - Projects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c398fe5a47037038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/musical/01- songs idea stage/festival.md",
+                "file": "01 - Projects/01 - Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/musical/01- songs idea stage/festival.md",
+                "file": "01 - Projects/01 - Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/musical/01- songs idea stage/festival.md"
+                "file": "01 - Projects/01 - Projects.md"
               }
             }
           },
@@ -277,8 +277,18 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "db670ed9ac718e65",
+  "active": "3931d921bd140f15",
   "lastOpenFiles": [
+    "02 - Lore ideas and world building/dnd/oneshot idea/Izanami's curse.md",
+    "02 - Lore ideas and world building/dnd/Untitled.md",
+    "02 - Lore ideas and world building/dnd/oneshot idea",
+    "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
+    "02 - Lore ideas and world building/musical lore/Timeline.canvas",
+    "01 - Projects/01 - Projects.md",
+    "06 - DND notes/20240916.md",
+    "06 - DND notes/20240917.md",
+    "06 - DND notes/20240918.md",
+    "01 - Projects/musical/01- songs idea stage/festival.md",
     "01 - Projects/musical/01- songs idea stage/boat song.md",
     "07 - Archives/MUSICAL SCRAPPED SONGS/Fractured words s1 or 2.md",
     "07 - Archives/MUSICAL SCRAPPED SONGS/Have you heard,.md",
@@ -297,15 +307,6 @@
     "07 - Archives/Random music ideas/Crazy.md",
     "07 - Archives/Random music ideas/The sea..md",
     "07 - Archives/random ideas/Untitled.md",
-    "07 - Archives/MUSICAL SCRAPPED SONGS/Call to me.md",
-    "07 - Archives/MUSICAL SCRAPPED SONGS/Dance.md",
-    "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
-    "01 - Projects/01 - Projects.md",
-    "01 - Projects/musical/03 - Cut songs/the beginning.md",
-    "01 - Projects/musical/03 - Cut songs/blood in the garden draft 1..md",
-    "01 - Projects/musical/03 - Cut songs/Blood in the garden.md",
-    "02 - Lore ideas and world building/musical lore/characters/UNDECIDED/King.md",
-    "02 - Lore ideas and world building/musical lore/Timeline.canvas",
     "00 - Music ideas/New Text Document.txt",
     "musical-umbrella",
     "New folder",
@@ -315,7 +316,6 @@
     "RPReplay_Final1726453597.mov",
     "02 - Lore ideas and world building/musical lore/scrapped lore",
     "01 - Projects/musical/Cut songs",
-    "01 - Projects/musical",
     "Pasted image 20240827162252.png",
     "Pasted image 20240824113759.png",
     "Pasted image 20240824113805.png",
