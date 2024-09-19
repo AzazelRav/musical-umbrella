@@ -30,30 +30,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24a3f73e2cf3fbcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Lore ideas and world building/musical lore/characters/DECIDED/BBEG.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3931d921bd140f15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "01 - Projects/01 - Projects.md",
                 "mode": "source",
                 "source": false
@@ -61,24 +37,12 @@
             }
           },
           {
-            "id": "af9a6df9ee759130",
+            "id": "6cf4e12ba0b848a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - DND notes/20240918.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c398fe5a47037038",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Lore ideas and world building/dnd/Untitled 1.md",
+                "file": "02 - Lore ideas and world building/dnd/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
+                "file": "01 - Projects/01 - Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
+                "file": "01 - Projects/01 - Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Lore ideas and world building/02 - Lore ideas and world building.md"
+                "file": "01 - Projects/01 - Projects.md"
               }
             }
           },
@@ -295,21 +259,25 @@
       "webpage-html-export:Export Vault to HTML": true,
       "obsidian42-brat:BRAT": false,
       "obsidian-regex-pipeline:Regex Rulesets": false,
-      "github-sync:Sync with Remote": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "db670ed9ac718e65",
   "lastOpenFiles": [
+    "00 - Music ideas/parodys/Untitled.md",
+    "00 - Music ideas/dnd songs/Untitled.md",
+    "RPReplay_Final1726453597.mov",
+    "07 - Archives/Random music ideas/Blacksmiths cry.md",
+    "01 - Projects/01 - Projects.md",
+    "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
+    "02 - Lore ideas and world building/dnd/Untitled.md",
+    "06 - DND notes/20240919.md",
+    "02 - Lore ideas and world building/musical lore/characters/DECIDED/BBEG.md",
+    "06 - DND notes/20240918.md",
+    "02 - Lore ideas and world building/dnd/Untitled 1.md",
     "01 - Projects/musical/01- songs idea stage/festival.md",
     "02 - Lore ideas and world building/musical lore/Timeline.canvas",
-    "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
-    "06 - DND notes/20240919.md",
-    "02 - Lore ideas and world building/dnd/Untitled 1.md",
     "02 - Lore ideas and world building/dnd/oneshot idea/Izanami's curse.md",
-    "02 - Lore ideas and world building/dnd/Untitled.md",
-    "01 - Projects/01 - Projects.md",
-    "06 - DND notes/20240918.md",
     "01 - Projects/musical/01- songs idea stage/dancing without a prince.md",
     "02 - Lore ideas and world building/dnd/oneshot idea",
     "06 - DND notes/20240916.md",
@@ -324,17 +292,13 @@
     "07 - Archives/MUSICAL SCRAPPED SONGS/Rumors song 2.md",
     "07 - Archives/MUSICAL SCRAPPED SONGS/War cry draft 2.md",
     "07 - Archives/Random music ideas/Captain shadow.md",
-    "07 - Archives/Random music ideas/Blacksmiths cry.md",
     "07 - Archives/Random music ideas/Apollo.md",
-    "07 - Archives/Raps/Untitled 4.md",
-    "07 - Archives/Raps/Untitled 1.md",
     "00 - Music ideas/New Text Document.txt",
     "musical-umbrella",
     "New folder",
     "git",
     "AZA-S-Musical",
     "Musical-Vault",
-    "RPReplay_Final1726453597.mov",
     "02 - Lore ideas and world building/musical lore/scrapped lore",
     "01 - Projects/musical/Cut songs",
     "Pasted image 20240827162252.png",
