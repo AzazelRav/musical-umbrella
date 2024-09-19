@@ -14,3 +14,5 @@ The one who makes her kingdom fall
 Lightning, wield her, use and yield her,  
 Show her what she can't conceal  
 For true nature will be revealed
+
+Ahh 
