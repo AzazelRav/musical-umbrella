@@ -25,5 +25,6 @@ m:*tears pour out of her as she screams in frustration punching the wall then wi
 
 *the knight goes to her asking if she is okay as she just stands up taking a deep breath as the knight escorts her to her room as he says in a kind caring tone a stark contrast to her fathers tone* have a goodnight princess.
 
-*she walks to the window crying as she grips the windowsill*
-
+*she walks to the window crying as she grips the windowsill as the song begins
+\ 
+just a child... just a item...to be shown around... is this worth it... am i worthless... (her voice cracks) or is my only purpose is to be married young?...
