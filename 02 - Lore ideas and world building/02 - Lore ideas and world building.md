@@ -3,6 +3,7 @@
 - **dnd**
 	- **oneshot idea**
 		- [[Izanami's curse]]
+	- [[The ringmaster and ladylust's story]]
 	- [[Untitled 1]]
 	- [[Untitled]]
 - **musical lore**

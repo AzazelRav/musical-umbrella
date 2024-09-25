@@ -16,8 +16,8 @@
               "state": {
                 "file": "02 - Lore ideas and world building/musical lore/Timeline.canvas",
                 "viewState": {
-                  "x": 65.12734845357227,
-                  "y": 225.09052500413537,
+                  "x": -153.665078544729,
+                  "y": 512.1236893199058,
                   "zoom": -1.0639908283670227
                 }
               },
@@ -30,7 +30,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/01 - Projects.md",
+                "file": "02 - Lore ideas and world building/dnd/The ringmaster and ladylust's story.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "729c6b8e5d2025e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - DND notes/20240924.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a324b5a063ee37bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - DND notes/20240921.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,9 +71,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c213ba617b1ffcb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b629f2a9a2fcc82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/musical/01- songs idea stage/boat song.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -154,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/01 - Projects.md",
+                "file": "01 - Projects/musical/01- songs idea stage/boat song.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/01 - Projects.md",
+                "file": "01 - Projects/musical/01- songs idea stage/boat song.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/01 - Projects.md"
+                "file": "01 - Projects/musical/01- songs idea stage/boat song.md"
               }
             }
           },
@@ -262,37 +310,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db670ed9ac718e65",
+  "active": "9b629f2a9a2fcc82",
   "lastOpenFiles": [
+    "01 - Projects/musical/02 - drafts/boat song.md",
+    "01 - Projects/musical/01- songs idea stage/boat song.md",
+    "01 - Projects/musical/01- songs idea stage/Song 1-Weight of responsibility.md",
+    "01 - Projects/musical/03 - Cut songs/festival.md",
+    "02 - Lore ideas and world building/musical lore/characters/DECIDED/Lee.md",
+    "02 - Lore ideas and world building/musical lore/scrapped lore/Musical story.md",
+    "02 - Lore ideas and world building/musical lore/Timeline.canvas",
+    "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
+    "01 - Projects/01 - Projects.md",
+    "02 - Lore ideas and world building/dnd/The ringmaster and ladylust's story.md",
+    "02 - Lore ideas and world building/dnd/Untitled.md",
+    "06 - DND notes/20240924.md",
+    "02 - Lore ideas and world building/dnd/Untitled 1.md",
+    "05 - Fleeting notes/changing ideas/Lust.md",
+    "05 - Fleeting notes/Untitled.md",
+    "05 - Fleeting notes/cracks.md",
+    "06 - DND notes/20240921.md",
     "00 - Music ideas/parodys/Untitled.md",
     "00 - Music ideas/dnd songs/Untitled.md",
     "RPReplay_Final1726453597.mov",
     "07 - Archives/Random music ideas/Blacksmiths cry.md",
-    "01 - Projects/01 - Projects.md",
-    "02 - Lore ideas and world building/02 - Lore ideas and world building.md",
-    "02 - Lore ideas and world building/dnd/Untitled.md",
     "06 - DND notes/20240919.md",
     "02 - Lore ideas and world building/musical lore/characters/DECIDED/BBEG.md",
     "06 - DND notes/20240918.md",
-    "02 - Lore ideas and world building/dnd/Untitled 1.md",
-    "01 - Projects/musical/01- songs idea stage/festival.md",
-    "02 - Lore ideas and world building/musical lore/Timeline.canvas",
     "02 - Lore ideas and world building/dnd/oneshot idea/Izanami's curse.md",
     "01 - Projects/musical/01- songs idea stage/dancing without a prince.md",
     "02 - Lore ideas and world building/dnd/oneshot idea",
     "06 - DND notes/20240916.md",
     "06 - DND notes/20240917.md",
-    "01 - Projects/musical/01- songs idea stage/boat song.md",
-    "07 - Archives/MUSICAL SCRAPPED SONGS/Fractured words s1 or 2.md",
-    "07 - Archives/MUSICAL SCRAPPED SONGS/Have you heard,.md",
-    "07 - Archives/MUSICAL SCRAPPED SONGS/My friend..md",
-    "07 - Archives/MUSICAL SCRAPPED SONGS/New,.md",
-    "07 - Archives/MUSICAL SCRAPPED SONGS/One sided.md",
-    "07 - Archives/MUSICAL SCRAPPED SONGS/Prophecy.md",
-    "07 - Archives/MUSICAL SCRAPPED SONGS/Rumors song 2.md",
-    "07 - Archives/MUSICAL SCRAPPED SONGS/War cry draft 2.md",
-    "07 - Archives/Random music ideas/Captain shadow.md",
-    "07 - Archives/Random music ideas/Apollo.md",
     "00 - Music ideas/New Text Document.txt",
     "musical-umbrella",
     "New folder",
