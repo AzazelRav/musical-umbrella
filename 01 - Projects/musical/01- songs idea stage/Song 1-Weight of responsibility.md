@@ -27,4 +27,6 @@ m:*tears pour out of her as she screams in frustration punching the wall then wi
 
 *she walks to the window crying as she grips the windowsill as the song begins
 \ 
-just a child... just a item...to be shown around... is this worth it... am i worthless... (her voice cracks) or is my only purpose is to be married young?...
+just a child... just a item...to be shown around... is this worth it... am i worthless... (her voice cracks) or just my only purpose just to be married young?... *she cries more as she mumbles* 
+
+m: why can’t you love me for me.... *she says as she opens the window looking at the forest as she takes a Shakey breath as she sings once again* love... how i adored, those... times from before, the tree’s dancing along with me and the breeze... 
